@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.aksharadeepa.app-mergeDebugResources-47:/layout/fragment_syllabus.xml",
+        "source": "com.example.aksharadeepa.app-main-50:/layout/fragment_syllabus.xml"
+    },
+    {
+        "merged": "com.example.aksharadeepa.app-mergeDebugResources-47:/layout/fragment_quiz.xml",
+        "source": "com.example.aksharadeepa.app-main-50:/layout/fragment_quiz.xml"
+    },
+    {
+        "merged": "com.example.aksharadeepa.app-mergeDebugResources-47:/layout/fragment_strength_map.xml",
+        "source": "com.example.aksharadeepa.app-main-50:/layout/fragment_strength_map.xml"
+    },
+    {
+        "merged": "com.example.aksharadeepa.app-mergeDebugResources-47:/layout/item_subject_home.xml",
+        "source": "com.example.aksharadeepa.app-main-50:/layout/item_subject_home.xml"
+    },
+    {
+        "merged": "com.example.aksharadeepa.app-mergeDebugResources-47:/layout/fragment_home.xml",
+        "source": "com.example.aksharadeepa.app-main-50:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.aksharadeepa.app-mergeDebugResources-47:/layout/item_mastery_card.xml",
+        "source": "com.example.aksharadeepa.app-main-50:/layout/item_mastery_card.xml"
+    },
+    {
+        "merged": "com.example.aksharadeepa.app-mergeDebugResources-47:/layout/item_syllabus_child.xml",
+        "source": "com.example.aksharadeepa.app-main-50:/layout/item_syllabus_child.xml"
+    },
+    {
+        "merged": "com.example.aksharadeepa.app-mergeDebugResources-47:/layout/item_quiz_result.xml",
+        "source": "com.example.aksharadeepa.app-main-50:/layout/item_quiz_result.xml"
+    },
+    {
+        "merged": "com.example.aksharadeepa.app-mergeDebugResources-47:/layout/item_syllabus_group.xml",
+        "source": "com.example.aksharadeepa.app-main-50:/layout/item_syllabus_group.xml"
+    },
+    {
+        "merged": "com.example.aksharadeepa.app-mergeDebugResources-47:/layout/item_chapter.xml",
+        "source": "com.example.aksharadeepa.app-main-50:/layout/item_chapter.xml"
+    },
+    {
+        "merged": "com.example.aksharadeepa.app-mergeDebugResources-47:/layout/activity_main.xml",
+        "source": "com.example.aksharadeepa.app-main-50:/layout/activity_main.xml"
+    }
+]

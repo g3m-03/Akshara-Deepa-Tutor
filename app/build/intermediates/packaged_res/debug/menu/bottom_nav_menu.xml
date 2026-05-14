@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="@string/title_home" />
+    <item
+        android:id="@+id/syllabusFragment"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="@string/title_syllabus" />
+    <item
+        android:id="@+id/quizFragment"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="@string/title_quiz" />
+    <item
+        android:id="@+id/strengthMapFragment"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="@string/title_strength_map" />
+</menu>

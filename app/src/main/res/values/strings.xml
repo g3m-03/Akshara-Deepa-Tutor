@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Akshara-Deepa</string>
+    <string name="title_home">Home</string>
+    <string name="title_syllabus">Syllabus</string>
+    <string name="title_quiz">Quiz</string>
+    <string name="title_strength_map">Strength</string>
+</resources>

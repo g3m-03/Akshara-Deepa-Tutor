@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#2D6A4F</color>
+    <color name="background">#FFF8F0</color>
+    <color name="background_light">#FFF8F0</color>
+    <color name="black">#000000</color>
+    <color name="error_red">#D32F2F</color>
+    <color name="primary">#FF6B35</color>
+    <color name="primary_dark">#E55A2B</color>
+    <color name="secondary">#2D6A4F</color>
+    <color name="success_green">#388E3C</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="warning_orange">#F57C00</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Akshara-Deepa</string>
+    <string name="title_home">Home</string>
+    <string name="title_quiz">Quiz</string>
+    <string name="title_strength_map">Strength</string>
+    <string name="title_syllabus">Syllabus</string>
+    <style name="Base.Theme.AksharaDeepa" parent="Theme.Material3.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="android:windowBackground">@color/background_light</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style>
+    <style name="Theme.AksharaDeepa" parent="Base.Theme.AksharaDeepa"/>
+</resources>
